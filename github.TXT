@@ -2,3 +2,5 @@ https://github.com/shitou321/workspace1.git
 
 shitou321
 lchl6.。。。。。。5
+
+git@github.com:shitou321/workspace1.wiki.git
